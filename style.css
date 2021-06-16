@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.pink-highlite {
+    color: #ff3886;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+
+.justify-content {
+    padding-top: 15%;
+}
+
+.dim-gray {
+    color: dimgray;
+    margin-bottom: 10%;
+}
+
+.half-width img {
+    width: 120%;
+    margin-top: -100px;
+    margin-left: -20%;
+
+}
+
+section {
+    height: 900px;
+    ;
+    width: 100%;
+}
+
+#intro {
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+
+.button-style {
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ec4f92, #ed4b71);
+    color: white;
+    padding: 7px 30px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+#biography {
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+h2.align-center {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+
+}
+
+.works {
+    padding: 10px 200px;
+
+}
+
+.works img {
+    width: 30%;
+    padding-left: 3%;
+}
+
+#latest-work {
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.align-text-center {
+    text-align: center;
+}
+
+#client-say {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 8%;
+}
+
+#client-say h2 {
+    font-weight: 700;
+    margin-bottom: 5%;
+}
+
+#client-say h4 {
+    font-weight: 700;
+    margin-bottom: 0px;
+
+}
+
+.no-margin-top {
+    margin-top: 5px;
+    margin-bottom: 35px;
+    ;
+}
+
+.dim-gray-client {
+    color: dimgray;
+}
+
+p.text-width {
+
+
+    text-align: center;
+}
+
+.message {
+    margin-top: 80px;
+    background-image: linear-gradient(45deg, #ec4f92, #ed4b71);
+    width: 60%;
+    margin-left: 16%;
+    padding: 30px 70px;
+    color: white;
+    border-radius: 10px;
+}
+
+.message h3 {
+    font-size: 30px;
+}
+
+footer p {
+    text-align: center;
+    color: dimgray;
+    font-size: 12px;
+}
